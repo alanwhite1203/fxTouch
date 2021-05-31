@@ -89,6 +89,10 @@ Maturity Date	1/17/2018
 Settlement Date	1/18/2018		
 				
 
-You can find more details at
-https://finpricing.com/knowledge.html
+References:
+
+https://finpricing.com/lib/EqBarrier.html
+
+https://bitbucket.org/cmrm11/fxtouch/downloads/FxTouch-24.pdf
+
 
